@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Holds real file names and paths
+rename_log.csv
+scan_history/
+
+test-data/
+*checkpoint.ipynb
+*checkpoint.csv

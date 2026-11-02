@@ -16,3 +16,6 @@ scan_history/
 test-data/
 *checkpoint.ipynb
 *checkpoint.csv
+# Hold real file names and summaries
+*pdf-renamer-scan_*.csv
+*pdf-renamer-log_*.csv
